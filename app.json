@@ -8,17 +8,4 @@
   "repository": "https://github.com/TheKingOfDarknesss/tg-mirror-leech-bot",
   "success_url": "https://t.me/TheSilentVip",
   "website": "https://github.com/TheKingOfDarknesss/tg-mirror-leech-bot",
-  "env": {
-    "ENV": {
-      "description": "Setting this to ANYTHING will enable webhooks when in env mode",
-      "value": "ANYTHING"
-    },
-    ""
-      "description": "Enter your copied text from rclone config. Compulsory for /gleech as well as /tleech command ",
-      "required": false
-    },
-    "DESTINATION_FOLDER": {
-      "description": "Enter your Cloud folder NAME(not ID😅) in which you want to upload/store your files.",
-      "required": false
-    },
-    
+  
